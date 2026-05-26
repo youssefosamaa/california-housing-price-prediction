@@ -93,9 +93,3 @@ Possible future enhancements include:
 - Hyperparameter tuning
 - Cross-validation
 - Feature scaling optimization
-
----
-
-## Author
-
-Youssef Issa
